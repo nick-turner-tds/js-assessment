@@ -18,7 +18,7 @@
 
 - The list of conversions should be easily accessible from the main screen.
 - Entries should be displayed in a clear and readable format.
-- The from, to, amount to convert, and the API derived conversion value should all be present.
+- The from, to, amount to convert, and the API-derived conversion value should all be present.
 
 ### Scalability
 
