@@ -34,6 +34,9 @@ Your task is to create a simple currency conversion tool similar to that found o
 - Document any assumptions or decisions you make during the development process.
 - Submit your completed project within the specified timeframe.
 
+## GitHub Copilot and AI use
+We understand and appreciate that tools like GitHub Copilot have become valuable resources for many developers, enhancing productivity and efficiency in daily work. However, to ensure a fair and accurate assessment of your individual skills during this interview process, we kindly ask that you complete the assessment task without using Copilot or similar AI coding assistants. This will help us better understand your problem-solving approach and coding abilities. Thank you for your cooperation and understanding.
+
 ## Evaluation Criteria:
 ### Functionality: 
 Does the application meet the specified requirements? Does it accurately perform currency conversion?
@@ -54,3 +57,4 @@ Are any optional features implemented effectively?
 - You are encouraged to use any additional libraries or tools you find necessary to complete the project efficiently.
 - Please ensure that your project is self-contained and can be easily set up and run by the evaluation team.
 - If you have any questions or need clarification on the requirements, feel free to reach out for assistance. Good luck!
+- Please refrain from using tools like GitHub Copilot.
