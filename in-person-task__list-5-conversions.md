@@ -1,4 +1,4 @@
-# User Story - Store the Last 5 Currency Conversions
+# In-Person Assessment - Store the Last 5 Currency Conversions
 
 ## Overview
 
