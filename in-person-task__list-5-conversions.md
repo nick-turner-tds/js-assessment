@@ -23,3 +23,7 @@
 ### Scalability
 
 - Although the current requirement is to store only the last 5 conversions, the design should be flexible enough to allow easy adjustments to this number in the future if needed.
+
+## GitHub Copilot and AI use
+
+We understand and appreciate that tools like GitHub Copilot have become valuable resources for many developers, enhancing productivity and efficiency in daily work. However, to ensure a fair and accurate assessment of your individual skills during this interview process, we kindly ask that you complete the assessment task without using Copilot or similar AI coding assistants. This will help us better understand your problem-solving approach and coding abilities. Thank you for your cooperation and understanding.
