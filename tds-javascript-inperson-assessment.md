@@ -1,4 +1,6 @@
-# In-Person Assessment - Store the Last 5 Currency Conversions
+# TDS JavaScript In-Person Assessment
+
+## Task - Display the Last 5 Currency Conversions
 
 ## Overview
 
