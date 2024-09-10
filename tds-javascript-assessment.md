@@ -1,4 +1,4 @@
-# js-interview-assessment
+# TDS JavaScript Assessment
 
 ## Project Overview:
 Your task is to create a simple currency conversion tool similar to that found on Google, using the front-end framework of your choice (e.g. React, Angular, Vue.js, etc.).
